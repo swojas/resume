@@ -3,6 +3,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f2f2f2ec;
+  background: rgb(174,185,238);
+  background: linear-gradient(176deg, rgba(174,185,238,1) 0%, rgba(148,233,149,1) 100%);
 }
 
 header {
@@ -22,7 +24,7 @@ header {
   margin-top: 30px;
   margin-bottom: 30px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #e4e2e2;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 40px;
 }
